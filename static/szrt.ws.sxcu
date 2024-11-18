@@ -1,0 +1,9 @@
+﻿{
+  "Version": "16.1.0",
+  "DestinationType": "URLShortener",
+  "RequestMethod": "POST",
+  "RequestURL": "https://szrt.ws/api/v1/create",
+  "Body": "JSON",
+  "Data": "{\"url\":\"{input}\"}",
+  "URL": "{json:url}"
+}
